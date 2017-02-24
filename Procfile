@@ -1,0 +1,1 @@
+web: $HOME/start.sh
