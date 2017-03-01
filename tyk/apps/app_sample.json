@@ -26,10 +26,10 @@
         }
     },
     "proxy": {
-        "listen_path": "/tyk-api-test/",
-        "target_url": "http://httpbin.org",
+        "listen_path": "/quickstart/",
+        "target_url": "http://tyk-sample-app-internal.cfapps.io",
         "strip_listen_path": true
     },
     "enable_batch_request_support": true,
-    "domain": "tyk-sample-app-protrade-project.cfapps.io"
+    "domain": "tyk-sample-app.cfapps.io"
 }
