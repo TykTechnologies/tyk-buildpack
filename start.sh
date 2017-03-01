@@ -20,4 +20,4 @@ export TYK_GW_LISTENPORT=$PORT
 
 env
 
-$HOME/tyk/tyk --conf=$HOME/tyk.conf --debug
+$HOME/tyk/tyk --conf=$HOME/tyk.conf
