@@ -31,5 +31,5 @@
         "strip_listen_path": true
     },
     "enable_batch_request_support": true,
-    "domain": "tyk-test.com"
+    "domain": "tyk-sample-app-protrade-project.cfapps.io"
 }
